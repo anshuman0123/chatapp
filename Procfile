@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn mychat.wsgi
+web: gunicorn mychart.wsgi
